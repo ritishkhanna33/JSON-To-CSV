@@ -10,3 +10,11 @@ Dependency injected in pom.xml in order to download JSON file programatically:
     <version>2.6</version>
 </dependency>
 ```
+Dependency injected in pom.xml in order to JSON to CSV:
+```
+<dependency>
+    <groupId>com.googlecode.json-simple</groupId>
+    <artifactId>json-simple</artifactId>
+    <version>1.1.1</version>
+</dependency>
+```
